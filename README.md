@@ -2,6 +2,9 @@
 - time based triggers
 - sendmail with html/attached file
 
+spread sheet's sample
+![sample.png](./mail_queue_sample.png)
+
 ## from Your Server
 - sync value for this spread sheet from your server's script
 - sync file for your Drive from your server's script
